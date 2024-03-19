@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ereffe</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate frontend/software developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereffe&label=Profile%20views&color=0e75b6&style=flat" alt="ereffe" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React and Vue.js**
+- 🌱 I’m currently learning **Angular and Python**
 
 - 📫 How to reach me **k.w.mirocha@gmail.com**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,css,react,vue,nodejs,tailwind,redux,express,githubactions,nextjs" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,css,react,angular,nodejs,tailwind,githubactions,nextjs,python,cpp" />
   </a>
 </p>
 
