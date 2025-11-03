@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently exploring **ASP.NET & backend development**  
+- 🌱 Currently exploring **Angular, Golang, Linux and DevOps** to build a strong foundation in full-stack and cloud-native development
 - 💻 Passionate about **web development, scalable applications & clean code**  
 - 🎯 Always eager to learn and take on new challenges  
 - 📫 How to reach me: **k.w.mirocha@gmail.com**  
