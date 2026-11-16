@@ -17,7 +17,7 @@
 
 ### 📂 Featured Projects
 
-#### 📚 [Compendia] - hidden for now — Next.js 16, TypeScript, GraphQL
+#### 📚 [Compendia](https://github.com/Ereffe/compendia-frontend) — Next.js 16, TypeScript, GraphQL
 A platform for publishing and discussing educational and scientific articles.
 - Markdown editor with KaTeX math, images, autosaved drafts and three difficulty levels
 - Scientific articles with DOI references, an interactive **citation graph** (Cytoscape + Crossref) and APA/BibTeX export
