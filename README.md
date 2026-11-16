@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ereffe</h1>
-<h3 align="center">A passionate Software Developer from Poland</h3>
+<h1 align="center">Hi 👋, I'm Kacper (Ereffe)</h1>
+<h3 align="center">Software Developer from Poland — TypeScript on the front, Java & search under the hood</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ereffe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,15 +7,44 @@
 
 ---
 
-### 🚀 About Me  
-- 🌱 Currently exploring **TypeScript, Node.Js and DevOps** to build a strong foundation in full-stack and cloud-native development
-- 💻 Passionate about **web development, scalable applications & clean code**  
-- 🎯 Always eager to learn and take on new challenges  
-- 📫 How to reach me: **k.w.mirocha@gmail.com**  
+### 🚀 About Me
+- 💻 I build web and mobile apps with **TypeScript, React, React Native and Next.js**
+- 🔎 Currently contributing to **[OpenSearch jVector](https://github.com/opensearch-project/opensearch-jvector)**: vector search and k-NN in Java
+- 🐳 I also run a homelab with Docker on Linux, which is where my DevOps habits come from
+- 📫 How to reach me: **k.w.mirocha@gmail.com**
 
 ---
 
-### 🔗 Connect with Me  
+### 📂 Featured Projects
+
+#### 📚 [Compendia](https://github.com/Ereffe/compendia-frontend) — Next.js 16, TypeScript, GraphQL
+A platform for publishing and discussing educational and scientific articles.
+- Markdown editor with KaTeX math, images, autosaved drafts and three difficulty levels
+- Scientific articles with DOI references, an interactive **citation graph** (Cytoscape + Crossref) and APA/BibTeX export
+- PDF → article import with live job progress, threaded comments, voting and full-text search
+- Bilingual UI (Polish / English), talks to a Spring Boot backend over GraphQL
+
+#### ⚙️ [Trybik Mobile](https://github.com/TrybikDevelopers/Trybik-frontend-mobile) — React Native, TypeScript, Zustand
+Timetable, exam calendar and ECTS calculator for Mechanical Engineering students at the Cracow University of Technology.
+- **Frontend mobile team lead**: built the app from the first tabs screen to release signing
+- Filterable timetable with week parity, exam calendar, offline caching with Zustand, PostHog analytics
+- CI/CD with GitHub Actions
+
+#### 🖥️ [Computer Shop](https://github.com/Ereffe/computer_shop) — Next.js, TypeScript · [live demo](https://computer-shop-mu.vercel.app)
+A small e-commerce storefront for PC components, deployed on Vercel.
+
+#### ⚡ [WorkWatt](https://github.com/CBlooded/WorkWatt-Frontend) — React, TypeScript, STOMP
+Hackathon project (Kościuszkon): a system for monitoring computer power usage across an organization. Built login, protected routing, real-time active-user tracking over STOMP/WebSockets and per-user power usage charts.
+
+---
+
+### 🌍 Open Source
+- **[opensearch-project/opensearch-jvector](https://github.com/opensearch-project/opensearch-jvector)**: [#809](https://github.com/opensearch-project/opensearch-jvector/pull/809) fixed flaky file assertions by inspecting compound segments
+- Also working on forks of [neural-search-jvector](https://github.com/Ereffe/neural-search-jvector), [OpenSearch](https://github.com/Ereffe/OpenSearch) and [k-NN](https://github.com/Ereffe/k-NN)
+
+---
+
+### 🔗 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/kacper-mirocha-2b92b124a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -27,19 +56,9 @@
 
 ---
 
-### 📂 Featured Projects  
-
-#### Trybik (React Native, TypeScript, Zustand)  
-- Frontend Moblie Team Lead in **Trybik** organization  
-- Developed Android timetable app with cross-platform support, integrated REST API  
-- CI/CD setup using GitHub Actions  
-- [View Repository](https://github.com/EreffeOrg/Trybik)
-
----
-
-### 🛠 Languages & Tools  
+### 🛠 Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,css,react,nextjs,tailwind,dotnet,python,cpp,githubactions,.net" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,graphql,java,python,cpp,dotnet,docker,linux,git,githubactions&perline=7" />
   </a>
 </p>
