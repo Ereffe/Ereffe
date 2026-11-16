@@ -17,7 +17,7 @@
 
 ### 📂 Featured Projects
 
-#### 📚 [Compendia](https://github.com/Ereffe/compendia-frontend) — Next.js 16, TypeScript, GraphQL
+#### 📚 [Compendia] - hidden for now — Next.js 16, TypeScript, GraphQL
 A platform for publishing and discussing educational and scientific articles.
 - Markdown editor with KaTeX math, images, autosaved drafts and three difficulty levels
 - Scientific articles with DOI references, an interactive **citation graph** (Cytoscape + Crossref) and APA/BibTeX export
@@ -30,17 +30,10 @@ Timetable, exam calendar and ECTS calculator for Mechanical Engineering students
 - Filterable timetable with week parity, exam calendar, offline caching with Zustand, PostHog analytics
 - CI/CD with GitHub Actions
 
-#### 🖥️ [Computer Shop](https://github.com/Ereffe/computer_shop) — Next.js, TypeScript · [live demo](https://computer-shop-mu.vercel.app)
-A small e-commerce storefront for PC components, deployed on Vercel.
-
-#### ⚡ [WorkWatt](https://github.com/CBlooded/WorkWatt-Frontend) — React, TypeScript, STOMP
-Hackathon project (Kościuszkon): a system for monitoring computer power usage across an organization. Built login, protected routing, real-time active-user tracking over STOMP/WebSockets and per-user power usage charts.
-
 ---
 
 ### 🌍 Open Source
-- **[opensearch-project/opensearch-jvector](https://github.com/opensearch-project/opensearch-jvector)**: [#809](https://github.com/opensearch-project/opensearch-jvector/pull/809) fixed flaky file assertions by inspecting compound segments
-- Also working on forks of [neural-search-jvector](https://github.com/Ereffe/neural-search-jvector), [OpenSearch](https://github.com/Ereffe/OpenSearch) and [k-NN](https://github.com/Ereffe/k-NN)
+- **[opensearch-project/opensearch-jvector](https://github.com/opensearch-project/opensearch-jvector)**
 
 ---
 
