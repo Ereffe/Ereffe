@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kacper 👋</h1>
 
 <p align="center">
-  Software developer at IBM, working on <b>OpenSearch</b>.<br/>
+  Software developer at IBM.<br/>
   TypeScript on the front, Java &amp; search under the hood.
 </p>
 
