@@ -15,6 +15,7 @@
 
 - I build web and mobile apps with **TypeScript, React, React Native and Next.js**.
 - At work I contribute to **[OpenSearch jVector](https://github.com/opensearch-project/opensearch-jvector)**, vector search and k-NN in Java.
+- Returning back to Go 🙌
 - I run a Docker-based homelab on Linux, which is where my DevOps habits come from.
 
 ## Featured projects
